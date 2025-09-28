@@ -5,10 +5,8 @@ Um projeto simples para consultar endereços através do CEP usando a API públi
 ## Funcionalidades
 
 - 🔍 Consulta de endereço por CEP
-- 🎯 Formatação automática do CEP (XXXXX-XXX)
 - 📱 Interface responsiva e intuitiva
 - ⚡ Consulta rápida via API
-- 🎨 Design moderno e clean
 
 ## Informações Retornadas
 
