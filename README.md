@@ -35,9 +35,9 @@ Um projeto simples para consultar endereços através do CEP usando a API públi
 
 ## Exemplo de CEPs para Teste
 
-- 01001-000 (São Paulo - SP)
-- 22250-040 (Rio de Janeiro - RJ)
-- 30130-005 (Belo Horizonte - MG)
+- 01001000 (São Paulo - SP)
+- 22250040 (Rio de Janeiro - RJ)
+- 30130005 (Belo Horizonte - MG)
 
 ## Tecnologias Utilizadas
 
